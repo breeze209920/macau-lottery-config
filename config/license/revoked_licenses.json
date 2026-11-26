@@ -1,0 +1,6 @@
+{
+  "_schema": "甲乙分析 许可证吊销列表 v1",
+  "_description": "注册机直接通过 GitHub API commit 更新此文件；客户端每 60 分钟拉取一次（节流）。字段说明见 docs/REVOKED_LIST_FORMAT.md",
+  "_lastUpdated": "2026-11-26",
+  "revoked": []
+}

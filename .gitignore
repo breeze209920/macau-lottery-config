@@ -1,0 +1,19 @@
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 密钥 (重要！绝对不要提交到仓库)
+*.key
+*.pem
+*.p12
+*.pfx
+
+# 临时 / 测试
+*.test.json
+_sample*

@@ -1,0 +1,12 @@
+{
+  "Messages": [
+    {
+      "Id": 20261126000000,
+      "Type": "info",
+      "Title": "系统升级通知",
+      "Content": "门户网站已停用，系统已切换为 GitHub 统一更新模式。\n如需手动更新请访问官网获取最新版本。",
+      "ActionUrl": "https://www.jiayiai.vip",
+      "ExpiredAt": "2026-12-10T00:00:00"
+    }
+  ]
+}
