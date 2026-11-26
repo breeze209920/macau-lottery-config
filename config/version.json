@@ -1,6 +1,6 @@
 ﻿{
     "version":  "7.6.0.9",
-    "downloadUrl": "https://github.com/breeze209920/MacauLottery2026/releases/download/v7.6.0.9/JiaYiChartAnalysis-v7.6.0.9.zip",
+    "downloadUrl": "https://github.com/breeze209920/macau-lottery-config/releases/download/v7.6.0.9/JiaYiChartAnalysis-v7.6.0.9.zip",
     "releaseNotes":  "V7.6.0.9 - 门户网站切换为 GitHub 统一更新\n\n- [新功能] 开奖数据支持 GitHub 私有仓库最终冗余源\n- [新功能] 许可证吊销列表迁移至 GitHub revoked_licenses.json\n- [新功能] 注册机直接通过 GitHub API 推送广播\n- [改进] CCGoin 门户直连已停用，自动回退多级链路\n- [改进] ECS LicenseServer 已停用，许可证主验证回归本地 RSA 签名",
     "forceUpdate":  false,
     "minimumVersion":  "7.6.0.0",
