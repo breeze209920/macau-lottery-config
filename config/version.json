@@ -1,7 +1,7 @@
 {
-    "version": "7.6.0.9",
-    "downloadUrl": "https://github.com/breeze209920/macau-lottery-config/releases/download/v7.6.0.9/JiaYiChartAnalysis-v7.6.0.9-setup.zip",
-    "releaseNotes": "V7.6.0.9 - 更新与下载统一走 GitHub\n\n- [修复] 安装包下载地址迁移到 GitHub Release 有效资产\n- [改进] 版本检查走 GitHub 公共仓库 version.json\n- [改进] 手机端检查更新 / 下载迁移到 GitHub\n- [改进] 开奖数据经本机中转采集并四彩种统一入库",
+    "version": "7.7.0.0",
+    "downloadUrl": "https://github.com/breeze209920/macau-lottery-config/releases/download/v7.7.0.0/JiaYiChartAnalysis-v7.7.0.0-setup.zip",
+    "releaseNotes": "V7.7.0.0 - 全量迁移 GitHub\n\n- [新功能] 版本检查、自动更新、手机端下载统一走 GitHub\n- [改进] 开奖数据经本机中转采集，四种彩种每次采集统一入库\n- [修复] 版本号解析（version/forceUpdate/minimumVersion）\n- [修复] 更新包下载地址指向有效资产",
     "forceUpdate": false,
     "minimumVersion": "7.6.0.0",
     "checksum": "",
