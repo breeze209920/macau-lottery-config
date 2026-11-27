@@ -1,9 +1,9 @@
 {
-    "version": "7.7.0.1",
-    "downloadUrl": "https://github.com/breeze209920/macau-lottery-config/releases/download/v7.7.0.1/JiaYiChartAnalysis-v7.7.0.1-setup.zip",
-    "releaseNotes": "- [新功能] 客户端心跳上报至 GitHub 独立仓库，注册机可远程查看在线用户\n- [改进] 注册机端口占用不再阻断启动，改为仅心跳模式继续运行",
-    "forceUpdate": false,
-    "minimumVersion": "7.6.0.0",
-    "checksum": "",
-    "publishedAt": "2026-11-27"
+    "version":  "7.7.0.2",
+    "downloadUrl":  "https://github.com/breeze209920/macau-lottery-config/releases/download/v7.7.0.2/JiaYiChartAnalysis-v7.7.0.2-setup.zip",
+    "releaseNotes":  "- [修复] 客户端心跳上报改为 HttpClient 优先、curl 兜底，跨局域网/跨公网用户不再依赖本机 curl 环境\n- [改进] 心跳首次失败自动快速重试（15s、30s），弱网或代理环境更容易成功\n- [改进] 心跳读写失败会记录 HTTP 状态码，便于远程排查 401/403/404\n- [改进] 注册机心跳轮询同样改为 HttpClient 优先，并显式启用 TLS 1.2\n- [说明] 不在同一局域网的用户升级到本版本后，心跳经公网 GitHub 上报，注册机可远程看到在线状态",
+    "forceUpdate":  false,
+    "minimumVersion":  "7.6.0.0",
+    "checksum":  "",
+    "publishedAt":  "2026-11-27"
 }
